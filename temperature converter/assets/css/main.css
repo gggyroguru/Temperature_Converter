@@ -1,0 +1,48 @@
+.heading {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.container {
+    width: fit-content;
+    margin: auto;
+    margin-top: 3rem;
+}
+
+input {
+    margin-top: 1rem;
+    padding-left: .3rem;
+    border: .1rem solid;
+}
+
+.btn {
+    text-align: center;
+}
+
+.btn button {
+    margin-top: 1.5rem;
+    color: white;
+    padding: .3rem .9rem;
+    background-color: var(--orange);
+}
+
+#output {
+    margin-top: 1.5rem;
+    border: 0;
+    text-align: center;
+}
+
+.to {
+ margin-top: .5rem;   
+} 
+
+select {
+    color: var(--white);
+    padding: .3rem .1rem;
+    outline: none;
+    border: none;
+    margin-top: .15rem;
+    background-color: var(--blue);
+    cursor: pointer;
+}
